@@ -1,0 +1,23 @@
+{
+  "veiculos": [
+    {
+      "id": "1",
+      "modelo": "Audi R8",
+      "placa": "STARK-01",
+      "status": "disponivel"
+    },
+    {
+      "id": "2",
+      "modelo": "Acura E-Tron",
+      "placa": "STARK-02",
+      "status": "manutencao"
+    },
+    {
+      "id": "3",
+      "modelo": "Porsche Taycan",
+      "placa": "STARK-03",
+      "status": "disponivel"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
